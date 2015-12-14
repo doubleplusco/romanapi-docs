@@ -10,5 +10,5 @@ The interactive documentation for Roman API is at [docs.romanapi.com](http://doc
 
 This repository contains documentation artefacts for Roman API, which have mostly been cloned from [the Swagger UI repository](https://github.com/swagger-api/swagger-ui/tree/master/dist). The only customisations are:
 
-1. [romanapi.json](https://github.com/doubleplusco/romanapi-docs/blob/gh-pages/romanapi.json): The Swagger 2.0 API definition. The same file (pretty much) was used to automatically create the API on Amazon API Gateway.
+1. [romanapi.json](https://github.com/doubleplusco/romanapi-docs/blob/gh-pages/romanapi.json): The Swagger 2.0 API definition. The same file (pretty much) was used to automatically create the API on Amazon API Gateway with [the Amazon API Gateway Importer](https://github.com/awslabs/aws-apigateway-importer).
 2. [index.html](https://github.com/doubleplusco/romanapi-docs/blob/gh-pages/index.html): The Swagger UI bootstrap page, with some tweaks.
